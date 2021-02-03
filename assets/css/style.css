@@ -46,7 +46,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Only for the main page image */
 main {
     height: 800px;
     width: 100%;
@@ -55,7 +55,7 @@ main {
     background-size: cover;
     background-position: center;
 }
-
+/* Floats required for Asside */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -65,7 +65,7 @@ main {
     float: right;
     margin-left: 25px;
 }
-
+/* Main section of company offered services */
 section {
     width: 75%;
     display: inline-block;
@@ -89,7 +89,7 @@ article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Asside section for explaination of company benefits on side bar */
 .all-asides {
     margin-right: 20px;
     padding: 20px;
@@ -116,7 +116,7 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Footer showing creation company and copyright date */
 footer {
     padding: 30px;
     clear: both;
