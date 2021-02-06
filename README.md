@@ -7,7 +7,7 @@ clones of code line to simplify and notations added. All links are fully functio
 company request.
 
 ##Image of completed work
-![Horiseon site](assets/images/screenshot.png)
+![Horiseon site](assets/images/Screenshot.png)
 
  ##Installation
 First save a backup of the exisiting code base in case of rollback required.
