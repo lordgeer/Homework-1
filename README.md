@@ -6,8 +6,8 @@ while semantic htmnl was introduced to replace aging code base. Both HTML and CS
 clones of code line to simplify and notations added. All links are fully functional and the page has no visual changes as per
 company request.
 
-##Image of conpleted work
-![alt text](assets/images/screenshot.png)
+##Image of completed work
+![Horiseon site](assets/images/screenshot.png)
 
  ##Installation
 First save a backup of the exisiting code base in case of rollback required.
